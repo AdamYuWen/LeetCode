@@ -17,12 +17,15 @@
 
 
 int firstUniqChar(string s) {
+	// if there is nothing changed, it returns -1
     int res = -1;
 
+	// create a unordered_map
     unordered_map<char, int> myMap;
     for (int i = 0; i < s.size(); i++) {
         myMap[s.at(i)]++;
     }
+	// check all elements to find out the unique element
     for (int i = 0; i < s.size(); i++) {
         if (myMap[s.at(i)] == 1) {
             res = i;
