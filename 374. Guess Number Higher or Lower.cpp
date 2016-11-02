@@ -24,6 +24,8 @@ public:
 	int guessNumber(int n) {
 		int left = 1, right = n;
 		while (left != right) {
+			// (right + left) / 2 does NOT work
+			// because it may beyond the integer boundary
 			int myGuessNumber = left + (right - left) / 2;
 
 			int guessRes = guess(myGuessNumber);
