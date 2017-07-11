@@ -18,6 +18,8 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
+        if(head == NULL) return false;
+        
         ListNode *slowPtr = head;
         ListNode *fastPtr = head;
         // The condition for while loop can be simplified
