@@ -13,7 +13,7 @@
  * https://leetcode.com/problems/valid-palindrome-ii/description/
  *
  * Author: Adam Yu Wen
- * Date: November 2, 2016
+ * Date: December 19, 2017
  */
 
 class Solution {
