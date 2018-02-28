@@ -8,6 +8,7 @@
  * Date: February 28, 2018
  */
 
+/* Method 1 */
 /* Time Limit Exceeded */
 class Solution {
 public:
@@ -23,6 +24,7 @@ public:
 };
 
 
+/* Method 2 */
 class Solution {
 public:
 	bool containsNearbyDuplicate(vector<int>& nums, int k) {
