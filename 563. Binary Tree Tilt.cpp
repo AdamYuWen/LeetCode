@@ -82,6 +82,8 @@ public:
 		// The IF function is need, otherwise the program will go
 		// through the while function. There is no p->left or p->right
 		// (NULL->NULL)
+		// On the other hand, the root has to be pushed outside of
+		// the while function
 		if (!root) return res;
 		queue<TreeNode*> q;
 		q.push(root);
