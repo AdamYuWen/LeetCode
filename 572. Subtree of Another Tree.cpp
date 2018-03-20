@@ -74,14 +74,14 @@ public:
 // Reference: http://www.cnblogs.com/grandyang/p/6828687.html
 // It takes 26 ms, which means it is faster than the first method.
 /**
-* Definition for a binary tree node.
-* struct TreeNode {
-*     int val;
-*     TreeNode *left;
-*     TreeNode *right;
-*     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-* };
-*/
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
 class Solution {
 public:
 	bool isSubtree(TreeNode* s, TreeNode* t) {
