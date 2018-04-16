@@ -43,8 +43,17 @@ public:
 			if (inorder[inRoot] == root->val)
 				break;
 		}
+		// postLeft + inRoot - inLeft - 1 ==>
+		// inRoot - inLeft == the number of values go to the left side
+		// - 1 == change the number of values to idex, which starts at 0
 		root->left = buildTree(inorder, inLeft, inRoot - 1,
 			postorder, postLeft, postLeft + inRoot - inLeft - 1);
+		// postLeft + inRoot - inLeft ==>
+		// postLeft + inRoot - inLeft - 1 + 1
+		// inRoot - inLeft == the number of values go to the left side
+		// - 1 == change the number of values to idex, which starts at 0
+		// + 1 == if there are 2 values go the left side, the index starts from the third
+		// postRight - 1 ==> exclude the last one, which is the root
 		root->right = buildTree(inorder, inRoot + 1, inRight,
 			postorder, postLeft + inRoot - inLeft, postRight - 1);
 		return root;
