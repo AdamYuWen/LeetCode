@@ -49,7 +49,7 @@ public:
 		root->left = buildTree(inorder, inLeft, inRoot - 1,
 			postorder, postLeft, postLeft + inRoot - inLeft - 1);
 		// postLeft + inRoot - inLeft ==>
-		// postLeft + inRoot - inLeft - 1 + 1
+		// postLeft + inRoot - inLeft - 1 + 1:
 		// inRoot - inLeft == the number of values go to the left side
 		// - 1 == change the number of values to idex, which starts from 0
 		// + 1 == if there are 2 values go to the left side, the index starts from the third
