@@ -35,7 +35,7 @@ public:
 	}
 
 	TreeNode* buildTree(vector<int>& inorder, int inLeft, int inRight,
-		vector<int>& postorder, int postLeft, int postRight) {
+	                    vector<int>& postorder, int postLeft, int postRight) {
 		if (inLeft > inRight || postLeft > postRight) return NULL;
 		TreeNode* root = new TreeNode(postorder[postRight]);
 		int inRoot;
@@ -47,7 +47,7 @@ public:
 		// inRoot - inLeft == the number of values go to the left side
 		// - 1 == change the number of values to idex, which starts from 0
 		root->left = buildTree(inorder, inLeft, inRoot - 1,
-			postorder, postLeft, postLeft + inRoot - inLeft - 1);
+		                       postorder, postLeft, postLeft + inRoot - inLeft - 1);
 		// postLeft + inRoot - inLeft ==>
 		// postLeft + inRoot - inLeft - 1 + 1:
 		// inRoot - inLeft == the number of values go to the left side
@@ -55,7 +55,7 @@ public:
 		// + 1 == if there are 2 values go to the left side, the index starts from the third
 		// postRight - 1 ==> exclude the last one, which is the root
 		root->right = buildTree(inorder, inRoot + 1, inRight,
-			postorder, postLeft + inRoot - inLeft, postRight - 1);
+		                        postorder, postLeft + inRoot - inLeft, postRight - 1);
 		return root;
 	}
 };
