@@ -1,8 +1,8 @@
 /**
  * Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
- * According to the definition of LCA on Wikipedia: ìThe lowest common ancestor is defined
+ * According to the definition of LCA on Wikipedia: ‚ÄúThe lowest common ancestor is defined
  * between two nodes v and w as the lowest node in T that has both v and w as descendants
- * (where we allow a node to be a descendant of itself).î
+ * (where we allow a node to be a descendant of itself).‚Äù
  *          _______3______
  *        /              \
  *     ___5__          ___1__
@@ -14,6 +14,9 @@
  * LCA of nodes 5 and 4 is 5, since a node can be a descendant of itself according to the
  * LCA definition.
  * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+ *
+ * Author: Adam Yu Wen
+ * Date: April 16, 2018
  */
 
 /**
