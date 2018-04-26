@@ -61,13 +61,13 @@ public:
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-		// The following line make the solution slower.
-		// With it, the solution takes 44 ms.
+	// The following line make the solution slower.
+	// With it, the solution takes 44 ms.
         //if (!headA || !headB) return NULL;
         ListNode* currA = headA;
         ListNode* currB = headB;
         while (currA != currB) {
-			// Notice: When a list is done, point to the other list.
+	    // Notice: When a list is done, point to the other list.
             currA = currA ? currA->next : headB;
             currB = currB ? currB->next : headA;
         }
