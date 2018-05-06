@@ -11,6 +11,10 @@
  * Input: [7,6,4,3,1]
  * Output: 0
  * Explanation: In this case, no transaction is done, i.e. max profit = 0.
+ * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+ *
+ * Author: Adam Yu Wen
+ * Date: May 6, 2018
  */
 
 class Solution {
