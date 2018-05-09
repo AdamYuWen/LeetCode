@@ -35,10 +35,7 @@ public:
         
         int resInt = intInA * intInB - complexInA * complexInB;
         int resComplex = intInA * complexInB + intInB * complexInA;
-
-        string resIntStr = to_string(resInt) + "+";
-        string resIntComplex = to_string(resComplex) + "i";
         
-        return resIntStr + resIntComplex;
+        return to_string(resInt) + "+" + to_string(resComplex) + "i";
     }
 };
