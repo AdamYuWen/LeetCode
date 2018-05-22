@@ -29,10 +29,10 @@ class Solution(object):
     def permuteDFS(self, nums, level, visit, out, res):
         """
         :type nums: List[int]
-              level: int
-              visit: List[int]
-              out: List[int]
-              res: List[List[int]]
+        :type level: int
+        :type visit: List[int]
+        :type out: List[int]
+        :type res: List[List[int]]
         :rtype: void
         """
         if len(nums) == level:

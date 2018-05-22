@@ -26,9 +26,9 @@ class Solution(object):
     def generateParenthesisHelp(self, left, right, out, res):
         """
         :type left: int
-              right: int
-              out: str
-              res: List[str]
+        :type right: int
+        :type out: str
+        :type res: List[str]
         :rtype: List[str]
         """
         if left == 0 and right == 0:
