@@ -7,16 +7,16 @@
 
 class Solution {
 public:
-	bool isPalindrome(int x) {
+ 	bool isPalindrome(int x) {
 		if (x < 0) return false;
-		int div = 1;
-		int xTmp = x;
+        int div = 1;
+        int xTmp = x;
 		while (xTmp > 9) {
             div *= 10;
             xTmp /= 10;
 		}
 		while (x > 0) {
-			int high = x / div;
+            int high = x / div;
             int low = x % 10;
 			if (high != low) return false;
 			x = (x - high * div) / 10;
