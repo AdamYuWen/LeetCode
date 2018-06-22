@@ -10,6 +10,7 @@
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](./C++/007.%20Reverse%20Integer.cpp) |  Easy |
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](./C++/009.%20Palindrome%20Number.cpp) |  Easy |
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](./C++/013.%20Roman%20to%20Integer.cpp) |  Easy |
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](./C++/014.%20Longest%20Common%20Prefix.cpp) |  Easy |
 |156|Binary Tree Upside Down :lock:| | Medium |
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./C++/677.%20Map%20Sum%20Pairs.cpp) [Python](./Python/677.%20Map%20Sum%20Pairs.py) | Medium |
