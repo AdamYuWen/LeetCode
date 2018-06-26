@@ -7,6 +7,7 @@
 |---| ----- | --------------------------- | ---------- |
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/001.%20Two%20Sum.cpp) |  Easy |
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./C++/002.%20Add%20Two%20Numbers.cpp) |  Medium |
+|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C++](./C++/003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) [Python](./Python/003.%20Longest%20Substring%20Without%20Repeating%20Characters.py) |  Medium |
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](./C++/007.%20Reverse%20Integer.cpp) |  Easy |
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](./C++/009.%20Palindrome%20Number.cpp) |  Easy |
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](./C++/013.%20Roman%20to%20Integer.cpp) |  Easy |
