@@ -10,10 +10,12 @@
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C++](./C++/003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) [Python](./Python/003.%20Longest%20Substring%20Without%20Repeating%20Characters.py) |  Medium |
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](./C++/007.%20Reverse%20Integer.cpp) |  Easy |
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](./C++/009.%20Palindrome%20Number.cpp) |  Easy |
+|011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](./C++/011.%20Container%20With%20Most%20Water.cpp) [Python](./Python/011.%20Container%20With%20Most%20Water.py) |  Medium |
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](./C++/013.%20Roman%20to%20Integer.cpp) |  Easy |
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](./C++/014.%20Longest%20Common%20Prefix.cpp) [Python](./Python/014.%20Longest%20Common%20Prefix.py) |  Easy |
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](./C++/017.%20Letter%20Combinations%20of%20a%20Phone%20Number.cpp) [Python](./Python/017.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) |  Medium |
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./C++/019.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp) |  Medium |
+|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./C++/020.%20Valid%20Parentheses.cpp) |  Easy |
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./C++/034.%20Search%20for%20a%20Range.cpp) [Python](./Python/034.%20Search%20for%20a%20Range.py) |  Medium |
 |156|Binary Tree Upside Down :lock:| | Medium |
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |
