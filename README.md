@@ -16,7 +16,9 @@
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](./C++/017.%20Letter%20Combinations%20of%20a%20Phone%20Number.cpp) [Python](./Python/017.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) |  Medium |
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./C++/019.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp) |  Medium |
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./C++/020.%20Valid%20Parentheses.cpp) |  Easy |
+|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](./C++/021.%20Merge%20Two%20Sorted%20Lists.cpp) [Python](./Python/021.%20Merge%20Two%20Sorted%20Lists.py) |  Easy |
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./C++/034.%20Search%20for%20a%20Range.cpp) [Python](./Python/034.%20Search%20for%20a%20Range.py) |  Medium |
+|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) |  Medium |
 |156|Binary Tree Upside Down :lock:| | Medium |
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./C++/677.%20Map%20Sum%20Pairs.cpp) [Python](./Python/677.%20Map%20Sum%20Pairs.py) | Medium |
