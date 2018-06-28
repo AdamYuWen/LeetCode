@@ -17,9 +17,11 @@
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./C++/019.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp) |  Medium |
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./C++/020.%20Valid%20Parentheses.cpp) |  Easy |
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](./C++/021.%20Merge%20Two%20Sorted%20Lists.cpp) [Python](./Python/021.%20Merge%20Two%20Sorted%20Lists.py) |  Easy |
+|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](./C++/022.%20Generate%20Parentheses.cpp) [Python](./Python/022.%20Generate%20Parentheses.py) |  Medium |
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./C++/034.%20Search%20for%20a%20Range.cpp) [Python](./Python/034.%20Search%20for%20a%20Range.py) |  Medium |
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) |  Medium |
 |156|Binary Tree Upside Down :lock:| | Medium |
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./C++/566.%20Reshape%20the%20Matrix.cpp) [Python](./Python/566.%20Reshape%20the%20Matrix.py) | Easy |
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./C++/677.%20Map%20Sum%20Pairs.cpp) [Python](./Python/677.%20Map%20Sum%20Pairs.py) | Medium |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [C++](./C++/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp) [Python](./Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | Easy |
