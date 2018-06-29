@@ -18,8 +18,10 @@
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./C++/020.%20Valid%20Parentheses.cpp) |  Easy |
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](./C++/021.%20Merge%20Two%20Sorted%20Lists.cpp) [Python](./Python/021.%20Merge%20Two%20Sorted%20Lists.py) |  Easy |
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](./C++/022.%20Generate%20Parentheses.cpp) [Python](./Python/022.%20Generate%20Parentheses.py) |  Medium |
+|023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./C++/023.%20Merge%20k%20Sorted%20Lists.cpp) |  Hard |
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./C++/034.%20Search%20for%20a%20Range.cpp) [Python](./Python/034.%20Search%20for%20a%20Range.py) |  Medium |
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) |  Medium |
+|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) |  Medium |
 |156|Binary Tree Upside Down :lock:| | Medium |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./C++/566.%20Reshape%20the%20Matrix.cpp) [Python](./Python/566.%20Reshape%20the%20Matrix.py) | Easy |
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |

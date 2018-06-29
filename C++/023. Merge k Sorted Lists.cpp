@@ -1,5 +1,4 @@
-/**
- * Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
+/* Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
  * Example:
  * Input:
  * [
@@ -9,6 +8,9 @@
  * ]
  * Output: 1->1->2->3->4->4->5->6
  * https://leetcode.com/problems/merge-k-sorted-lists/description/
+ *
+ * Author: Adam Yu Wen
+ * Date: May 2, 2018
  */
  
 /**
