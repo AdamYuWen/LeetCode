@@ -14,26 +14,26 @@
 
 class Solution {
 public:
-	int strStr(string haystack, string needle) {
-		if (needle == "") return 0;
+    int strStr(string haystack, string needle) {
+        if (needle == "") return 0;
 
-		int haystackSize = haystack.size();
-		int needleSize = needle.size();
-		int hayIdx;
-		for (hayIdx = 0; hayIdx < haystackSize - needleSize + 1; hayIdx++) {
-			// Important: The ending point was changed from haystackSize to
-			// (haystackSize - needleSize + 1), which saved a lot of time.
-			if (haystack[hayIdx] == needle[0]) {
-				int neeIdx;
-				for (neeIdx = 0; neeIdx < needleSize; neeIdx++) {
-					if (haystack[hayIdx + neeIdx] != needle[neeIdx]) {
-						break;
-					}
-				}
-				if (neeIdx == needle.size())
-					return hayIdx;
-			}
-		}
-		return -1;
-	}
+        int haystackSize = haystack.size();
+        int needleSize = needle.size();
+        int hayIdx;
+        for (hayIdx = 0; hayIdx < haystackSize - needleSize + 1; hayIdx++) {
+            // Important: The ending point was changed from haystackSize to
+            // (haystackSize - needleSize + 1), which saved a lot of time.
+            if (haystack[hayIdx] == needle[0]) {
+                int neeIdx;
+                for (neeIdx = 0; neeIdx < needleSize; neeIdx++) {
+                    if (haystack[hayIdx + neeIdx] != needle[neeIdx]) {
+                        break;
+                    }
+                }
+                if (neeIdx == needle.size())
+                    return hayIdx;
+            }
+        }
+        return -1;
+    }
 };

@@ -21,6 +21,7 @@
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./C++/023.%20Merge%20k%20Sorted%20Lists.cpp) | Hard |
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](./C++/025.%20Reverse%20Nodes%20in%20k-Group.cpp) | Hard |
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](./C++/026.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp) | Easy |
+|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./C++/028.%20Implement%20strStr().cpp [Python](./Python/028.%20Implement%20strStr().py)) | Easy |
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./C++/034.%20Search%20for%20a%20Range.cpp) [Python](./Python/034.%20Search%20for%20a%20Range.py) | Medium |
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) | Medium |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
@@ -31,5 +32,6 @@
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [C++](./C++/621.%20Task%20Scheduler.cpp) [Python](./Python/621.%20Task%20Scheduler.py) | Medium |
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./C++/677.%20Map%20Sum%20Pairs.cpp) [Python](./Python/677.%20Map%20Sum%20Pairs.py) | Medium |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [C++](./C++/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp) [Python](./Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | Easy |
+|767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [C++](./C++/767.%20Reorganize%20String.cpp) [Python](./Python/767.%20Reorganize%20String.py) | Medium |
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./C++/812.%20Largest%20Triangle%20Area.cpp) [Python](./Python/812.%20Largest%20Triangle%20Area.py) | Easy |
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](./C++/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp) [Python](./Python/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) | Easy |
