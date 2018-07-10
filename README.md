@@ -21,7 +21,7 @@
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./C++/023.%20Merge%20k%20Sorted%20Lists.cpp) | Hard |
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](./C++/025.%20Reverse%20Nodes%20in%20k-Group.cpp) | Hard |
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](./C++/026.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp) | Easy |
-|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./C++/028.%20Implement%20strStr().cpp [Python](./Python/028.%20Implement%20strStr().py)) | Easy |
+|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./C++/028.%20Implement%20strStr().cpp) [Python](./Python/028.%20Implement%20strStr().py) | Easy |
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./C++/034.%20Search%20for%20a%20Range.cpp) [Python](./Python/034.%20Search%20for%20a%20Range.py) | Medium |
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) | Medium |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
