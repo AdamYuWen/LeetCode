@@ -22,11 +22,13 @@
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](./C++/025.%20Reverse%20Nodes%20in%20k-Group.cpp) | Hard |
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](./C++/026.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp) | Easy |
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./C++/028.%20Implement%20strStr().cpp) [Python](./Python/028.%20Implement%20strStr().py) | Easy |
+|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./C++/033.%20Search%20in%20Rotated%20Sorted%20Array.cpp) [Python](./Python/033.%20Search%20in%20Rotated%20Sorted%20Array.py) | Medium |
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./C++/034.%20Search%20for%20a%20Range.cpp) [Python](./Python/034.%20Search%20for%20a%20Range.py) | Medium |
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) | Medium |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
 |156|Binary Tree Upside Down :lock:| | Medium |
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [C++](./C++/162.%20Find%20Peak%20Element.cpp) [Python](./Python/162.%20Find%20Peak%20Element.py) | Medium |
+|476|[Number Complement](https://leetcode.com/problems/number-complement/description/) | [C++](./C++/476.%20Number%20Complement.cpp) [Python](./Python/476.%20Number%20Complement.py) | Easy |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./C++/566.%20Reshape%20the%20Matrix.cpp) [Python](./Python/566.%20Reshape%20the%20Matrix.py) | Easy |
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [C++](./C++/621.%20Task%20Scheduler.cpp) [Python](./Python/621.%20Task%20Scheduler.py) | Medium |
