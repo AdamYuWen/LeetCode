@@ -25,10 +25,12 @@
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./C++/033.%20Search%20in%20Rotated%20Sorted%20Array.cpp) | Medium |
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./C++/034.%20Search%20for%20a%20Range.cpp) [Python](./Python/034.%20Search%20for%20a%20Range.py) | Medium |
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](./C++/035.%20Search%20Insert%20Position.cpp) | Easy |
+|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](./C++/038.%20Count%20and%20Say.cpp) | Easy |
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) | Medium |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
 |156|Binary Tree Upside Down :lock:| | Medium |
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [C++](./C++/162.%20Find%20Peak%20Element.cpp) [Python](./Python/162.%20Find%20Peak%20Element.py) | Medium |
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [C++](./C++/384.%20Shuffle%20an%20Array.cpp) [Python](./Python/384.%20Shuffle%20an%20Array.py) | Medium |
 |476|[Number Complement](https://leetcode.com/problems/number-complement/description/) | [C++](./C++/476.%20Number%20Complement.cpp) [Python](./Python/476.%20Number%20Complement.py) | Easy |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./C++/566.%20Reshape%20the%20Matrix.cpp) [Python](./Python/566.%20Reshape%20the%20Matrix.py) | Easy |
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |
