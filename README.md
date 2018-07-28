@@ -37,6 +37,7 @@
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [C++](./C++/621.%20Task%20Scheduler.cpp) [Python](./Python/621.%20Task%20Scheduler.py) | Medium |
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./C++/677.%20Map%20Sum%20Pairs.cpp) [Python](./Python/677.%20Map%20Sum%20Pairs.py) | Medium |
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [C++](./C++/709.%20To%20Lower%20Case.cpp) [Python](./Python/709.%20To%20Lower%20Case.py) | Easy |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [C++](./C++/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp) [Python](./Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | Easy |
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [C++](./C++/767.%20Reorganize%20String.cpp) [Python](./Python/767.%20Reorganize%20String.py) | Medium |
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./C++/791.%20Custom%20Sort%20String.cpp) [Python](./Python/791.%20Custom%20Sort%20String.py) | Medium |
@@ -45,4 +46,4 @@
 |868|[Binary Gap](https://leetcode.com/contest/weekly-contest-93/problems/binary-gap/) | [C++](./C++/868.%20Binary%20Gap.cpp) [Python](./Python/868.%20Binary%20Gap.py) | Easy |
 
 ## To-do List
-[ ] Correct 868's link once it is changed.
+- [ ] Correct 868's link once it is changed.
