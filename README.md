@@ -28,6 +28,7 @@
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](./C++/038.%20Count%20and%20Say.cpp) | Easy |
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](./C++/039.%20Combination%20Sum.cpp) [Python](./Python/039.%20Combination%20Sum.py) | Medium |
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) | Medium |
+|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [C++](./C++/049.%20Group%20Anagrams.cpp) [Python](./Python/049.%20Group%20Anagrams.py) | Medium |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
 |156|Binary Tree Upside Down :lock:| | Medium |
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [C++](./C++/162.%20Find%20Peak%20Element.cpp) [Python](./Python/162.%20Find%20Peak%20Element.py) | Medium |
@@ -37,6 +38,7 @@
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [C++](./C++/621.%20Task%20Scheduler.cpp) [Python](./Python/621.%20Task%20Scheduler.py) | Medium |
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./C++/677.%20Map%20Sum%20Pairs.cpp) [Python](./Python/677.%20Map%20Sum%20Pairs.py) | Medium |
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./C++/695.%20Max%20Area%20of%20Island.cpp) [Python](./Python/695.%20Max%20Area%20of%20Island.py) | Easy |
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [C++](./C++/709.%20To%20Lower%20Case.cpp) [Python](./Python/709.%20To%20Lower%20Case.py) | Easy |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [C++](./C++/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp) [Python](./Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | Easy |
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [C++](./C++/767.%20Reorganize%20String.cpp) [Python](./Python/767.%20Reorganize%20String.py) | Medium |
