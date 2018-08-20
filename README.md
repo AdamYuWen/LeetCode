@@ -40,6 +40,7 @@
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./C++/677.%20Map%20Sum%20Pairs.cpp) [Python](./Python/677.%20Map%20Sum%20Pairs.py) | Medium |
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./C++/695.%20Max%20Area%20of%20Island.cpp) [Python](./Python/695.%20Max%20Area%20of%20Island.py) | Easy |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [C++](./C++/705.%20Design%20HashSet.cpp) | Easy |
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [C++](./C++/706.%20Design%20HashMap.cpp) | Easy |
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [C++](./C++/709.%20To%20Lower%20Case.cpp) [Python](./Python/709.%20To%20Lower%20Case.py) | Easy |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [C++](./C++/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp) [Python](./Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | Easy |
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [C++](./C++/767.%20Reorganize%20String.cpp) [Python](./Python/767.%20Reorganize%20String.py) | Medium |
