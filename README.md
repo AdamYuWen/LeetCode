@@ -47,7 +47,8 @@
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./C++/791.%20Custom%20Sort%20String.cpp) [Python](./Python/791.%20Custom%20Sort%20String.py) | Medium |
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./C++/812.%20Largest%20Triangle%20Area.cpp) [Python](./Python/812.%20Largest%20Triangle%20Area.py) | Easy |
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](./C++/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp) [Python](./Python/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) | Easy |
-|868|[Binary Gap](https://leetcode.com/contest/weekly-contest-93/problems/binary-gap/) | [C++](./C++/868.%20Binary%20Gap.cpp) [Python](./Python/868.%20Binary%20Gap.py) | Easy |
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | [C++](./C++/856.%20Score%20of%20Parentheses.cpp) [Python](./Python/856.%20Score%20of%20Parentheses.py) | Medium |
+|868|[Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [C++](./C++/868.%20Binary%20Gap.cpp) [Python](./Python/868.%20Binary%20Gap.py) | Easy |
 
 ## To-do List
-- [ ] Correct 868's link once it is changed.
+- [X] Correct 868's link once it is changed.
