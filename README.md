@@ -5,7 +5,7 @@
 ## Algorithms
 | # | Title | Solutions | Difficulty |
 |---| ----- | --------------------------- | ---------- |
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/001.%20Two%20Sum.cpp) | Easy |
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/001.%20Two%20Sum.cpp) [Python](./Python/001.%20Two%20Sum.py) | Easy |
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./C++/002.%20Add%20Two%20Numbers.cpp) | Medium |
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C++](./C++/003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) [Python](./Python/003.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium |
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](./C++/007.%20Reverse%20Integer.cpp) | Easy |
