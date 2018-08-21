@@ -30,6 +30,7 @@
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) | Medium |
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [C++](./C++/049.%20Group%20Anagrams.cpp) [Python](./Python/049.%20Group%20Anagrams.py) | Medium |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
+|074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [C++](./C++/074.%20Search%20a%202D%20Matrix.cpp) [Python](./Python/074.%20Search%20a%202D%20Matrix.py) | Medium |
 |156|Binary Tree Upside Down :lock:| | Medium |
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [C++](./C++/162.%20Find%20Peak%20Element.cpp) [Python](./Python/162.%20Find%20Peak%20Element.py) | Medium |
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [C++](./C++/384.%20Shuffle%20an%20Array.cpp) [Python](./Python/384.%20Shuffle%20an%20Array.py) | Medium |
