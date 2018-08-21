@@ -28,7 +28,7 @@
 #   There aren't any consecutive pairs of 1's in the binary representation of 8, so we return 0.
 # Note:
 # 1 <= N <= 10^9
-# https://leetcode.com/contest/weekly-contest-93/problems/binary-gap/
+# https://leetcode.com/problems/binary-gap/description/
 # 
 # Author: Adam Yu Wen
 # Date: July 16, 2018
