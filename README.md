@@ -29,6 +29,7 @@
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](./C++/039.%20Combination%20Sum.cpp) [Python](./Python/039.%20Combination%20Sum.py) | Medium |
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) | Medium |
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [C++](./C++/049.%20Group%20Anagrams.cpp) [Python](./Python/049.%20Group%20Anagrams.py) | Medium |
+|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./C++/053.%20Maximum%20Subarray.cpp) | Easy |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [C++](./C++/074.%20Search%20a%202D%20Matrix.cpp) [Python](./Python/074.%20Search%20a%202D%20Matrix.py) | Medium |
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [C++](./C++/120.%20Triangle.cpp) [Python](./Python/120.%20Triangle.py) | Medium |
@@ -50,7 +51,9 @@
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./C++/812.%20Largest%20Triangle%20Area.cpp) [Python](./Python/812.%20Largest%20Triangle%20Area.py) | Easy |
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](./C++/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp) [Python](./Python/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) | Easy |
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | [C++](./C++/856.%20Score%20of%20Parentheses.cpp) [Python](./Python/856.%20Score%20of%20Parentheses.py) | Medium |
+|859|[Buddy Strings](https://leetcode.com/contest/weekly-contest-90/problems/buddy-strings/) | [C++](./C++/859.%20Buddy%20Strings.cpp) | Easy |
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [C++](./C++/868.%20Binary%20Gap.cpp) [Python](./Python/868.%20Binary%20Gap.py) | Easy |
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./C++/929.%20Unique%20Email%20Addresses.cpp) [Python](./Python/929.%20Unique%20Email%20Addresses.py) | Easy |
 
 ## To-do List
 - [X] Correct 868's link once it is changed.
