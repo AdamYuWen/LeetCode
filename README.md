@@ -53,6 +53,7 @@
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | [C++](./C++/856.%20Score%20of%20Parentheses.cpp) [Python](./Python/856.%20Score%20of%20Parentheses.py) | Medium |
 |859|[Buddy Strings](https://leetcode.com/contest/weekly-contest-90/problems/buddy-strings/) | [C++](./C++/859.%20Buddy%20Strings.cpp) | Easy |
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [C++](./C++/868.%20Binary%20Gap.cpp) [Python](./Python/868.%20Binary%20Gap.py) | Easy |
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./C++/905.%20Sort%20Array%20By%20Parity.cpp) [Python](./Python/905.%20Sort%20Array%20By%20Parity.py) | Easy |
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./C++/929.%20Unique%20Email%20Addresses.cpp) [Python](./Python/929.%20Unique%20Email%20Addresses.py) | Easy |
 
 ## To-do List
