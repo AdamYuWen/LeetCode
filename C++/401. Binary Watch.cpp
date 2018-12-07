@@ -18,18 +18,18 @@
 
 class Solution {
 public:
-	vector<string> readBinaryWatch(int num) {
-		vector<string> res;
-		for (int hour = 0; hour < 12; hour++) {
-			for (int minute = 0; minute < 60; minute++) {
-				// 1. use bitset to convert numbers to binary
-				// 2. because minute need 6 binary places
-				// 3. hour and minute need 10 binary places in total
-				if (bitset<10>((hour << 6) + minute).count() == num) {
-					res.push_back(to_string(hour) + (minute < 10 ? ":0" : ":") + to_string(minute));
-				}
-			}
-		}
-		return res;
-	}
+    vector<string> readBinaryWatch(int num) {
+        vector<string> res;
+        for (int hour = 0; hour < 12; hour++) {
+            for (int minute = 0; minute < 60; minute++) {
+                // 1. use bitset to convert numbers to binary
+                // 2. because minute need 6 binary places
+                // 3. hour and minute need 10 binary places in total
+                if (bitset<10>((hour << 6) + minute).count() == num) {
+                    res.push_back(to_string(hour) + (minute < 10 ? ":0" : ":") + to_string(minute));
+                }
+            }
+        }
+        return res;
+    }
 };
