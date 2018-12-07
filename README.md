@@ -27,6 +27,7 @@
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](./C++/035.%20Search%20Insert%20Position.cpp) | Easy |
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](./C++/038.%20Count%20and%20Say.cpp) | Easy |
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](./C++/039.%20Combination%20Sum.cpp) [Python](./Python/039.%20Combination%20Sum.py) | Medium |
+|040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](./C++/040.%20Combination%20Sum%20II.cpp) [Python](./Python/040.%20Combination%20Sum%20II.py) | Medium |
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./C++/048.%20Rotate%20Image.cpp) [Python](./Python/048.%20Rotate%20Image.py) | Medium |
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [C++](./C++/049.%20Group%20Anagrams.cpp) [Python](./Python/049.%20Group%20Anagrams.py) | Medium |
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./C++/053.%20Maximum%20Subarray.cpp) | Easy |
@@ -36,6 +37,7 @@
 |156|Binary Tree Upside Down :lock:| | Medium |
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [C++](./C++/162.%20Find%20Peak%20Element.cpp) [Python](./Python/162.%20Find%20Peak%20Element.py) | Medium |
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [C++](./C++/384.%20Shuffle%20an%20Array.cpp) [Python](./Python/384.%20Shuffle%20an%20Array.py) | Medium |
+|401|[401. Binary Watch](https://leetcode.com/problems/binary-watch/) | [C++](./C++/401.%20Binary%20Watch.cpp) [Python](./Python/401.%20Binary%20Watch.py) | Easy |
 |476|[Number Complement](https://leetcode.com/problems/number-complement/description/) | [C++](./C++/476.%20Number%20Complement.cpp) [Python](./Python/476.%20Number%20Complement.py) | Easy |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./C++/566.%20Reshape%20the%20Matrix.cpp) [Python](./Python/566.%20Reshape%20the%20Matrix.py) | Easy |
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [C++](./C++/598.%20Range%20Addition%20II.cpp) [Python](./Python/598.%20Range%20Addition%20II.py) | Easy |
@@ -47,6 +49,7 @@
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [C++](./C++/709.%20To%20Lower%20Case.cpp) [Python](./Python/709.%20To%20Lower%20Case.py) | Easy |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [C++](./C++/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp) [Python](./Python/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) | Easy |
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [C++](./C++/767.%20Reorganize%20String.cpp) [Python](./Python/767.%20Reorganize%20String.py) | Medium |
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [C++](./C++/779.%20K-th%20Symbol%20in%20Grammar.cpp) [Python](./Python/779.%20K-th%20Symbol%20in%20Grammar.py) | Medium |
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./C++/791.%20Custom%20Sort%20String.cpp) [Python](./Python/791.%20Custom%20Sort%20String.py) | Medium |
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./C++/812.%20Largest%20Triangle%20Area.cpp) [Python](./Python/812.%20Largest%20Triangle%20Area.py) | Easy |
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](./C++/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp) [Python](./Python/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) | Easy |
