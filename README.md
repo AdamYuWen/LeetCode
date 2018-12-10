@@ -33,7 +33,7 @@
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./C++/053.%20Maximum%20Subarray.cpp) | Easy |
 |055|[Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./C++/055.%20Jump%20Game.cpp) [Python](./Python/055.%20Jump%20Game.py) | Medium |
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./C++/056.%20Merge%20Intervals.cpp) [Python](./Python/056.%20Merge%20Intervals.py) | Medium |
-|058|[Length of Last Word](https://leetcode.com/problems/merge-intervals/) | [C++](./C++/058. Length of Last Word.cpp) | Easy |
+|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./C++/058.%20Length%20of%20Last%20Word.cpp) | Easy |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [C++](./C++/074.%20Search%20a%202D%20Matrix.cpp) [Python](./Python/074.%20Search%20a%202D%20Matrix.py) | Medium |
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [C++](./C++/120.%20Triangle.cpp) [Python](./Python/120.%20Triangle.py) | Medium |
