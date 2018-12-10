@@ -33,6 +33,7 @@
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./C++/053.%20Maximum%20Subarray.cpp) | Easy |
 |055|[Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./C++/055.%20Jump%20Game.cpp) [Python](./Python/055.%20Jump%20Game.py) | Medium |
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./C++/056.%20Merge%20Intervals.cpp) [Python](./Python/056.%20Merge%20Intervals.py) | Medium |
+|058|[Length of Last Word](https://leetcode.com/problems/merge-intervals/) | [C++](./C++/058. Length of Last Word.cpp) | Easy |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [C++](./C++/074.%20Search%20a%202D%20Matrix.cpp) [Python](./Python/074.%20Search%20a%202D%20Matrix.py) | Medium |
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [C++](./C++/120.%20Triangle.cpp) [Python](./Python/120.%20Triangle.py) | Medium |
@@ -48,6 +49,7 @@
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [C++](./C++/621.%20Task%20Scheduler.cpp) [Python](./Python/621.%20Task%20Scheduler.py) | Medium |
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [C++](./C++/677.%20Map%20Sum%20Pairs.cpp) [Python](./Python/677.%20Map%20Sum%20Pairs.py) | Medium |
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./C++/695.%20Max%20Area%20of%20Island.cpp) [Python](./Python/695.%20Max%20Area%20of%20Island.py) | Easy |
+|704|[Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./C++/704.%20Binary%20Search.cpp) [Python](./Python/704.%20Binary%20Search.py) | Easy |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [C++](./C++/705.%20Design%20HashSet.cpp) | Easy |
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [C++](./C++/706.%20Design%20HashMap.cpp) | Easy |
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [C++](./C++/709.%20To%20Lower%20Case.cpp) [Python](./Python/709.%20To%20Lower%20Case.py) | Easy |
