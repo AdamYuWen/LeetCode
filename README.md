@@ -34,6 +34,7 @@
 |055|[Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./C++/055.%20Jump%20Game.cpp) [Python](./Python/055.%20Jump%20Game.py) | Medium |
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./C++/056.%20Merge%20Intervals.cpp) [Python](./Python/056.%20Merge%20Intervals.py) | Medium |
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./C++/058.%20Length%20of%20Last%20Word.cpp) | Easy |
+|061|[Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./C++/061.%20Rotate%20List.cpp) | Medium |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [C++](./C++/074.%20Search%20a%202D%20Matrix.cpp) [Python](./Python/074.%20Search%20a%202D%20Matrix.py) | Medium |
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [C++](./C++/120.%20Triangle.cpp) [Python](./Python/120.%20Triangle.py) | Medium |
@@ -63,6 +64,7 @@
 |859|[Buddy Strings](https://leetcode.com/contest/weekly-contest-90/problems/buddy-strings/) | [C++](./C++/859.%20Buddy%20Strings.cpp) | Easy |
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [C++](./C++/868.%20Binary%20Gap.cpp) [Python](./Python/868.%20Binary%20Gap.py) | Easy |
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./C++/905.%20Sort%20Array%20By%20Parity.cpp) [Python](./Python/905.%20Sort%20Array%20By%20Parity.py) | Easy |
+|908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | [C++](./C++/908.%20Smallest%20Range%20I.cpp) [Python](./Python/908.%20Smallest%20Range%20I.py) | Easy |
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./C++/929.%20Unique%20Email%20Addresses.cpp) [Python](./Python/929.%20Unique%20Email%20Addresses.py) | Easy |
 
 ## To-do List
