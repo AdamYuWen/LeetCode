@@ -37,6 +37,7 @@
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./C++/061.%20Rotate%20List.cpp) | Medium |
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./C++/062.%20Unique%20Paths.cpp) [Python](./Python/062.%20Unique%20Paths.py) | Medium |
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./C++/063.%20Unique%20Paths%20II.cpp) [Python](./Python/063.%20Unique%20Paths%20II.py) | Medium |
+|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./C++/064.%20Minimum%20Path%20Sum.cpp) [Python](./Python/064.%20Minimum%20Path%20Sum.py) | Medium |
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](./C++/073.%20Set%20Matrix%20Zeroes.cpp) [Python](./Python/073.%20Set%20Matrix%20Zeroes.py) | Medium |
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [C++](./C++/074.%20Search%20a%202D%20Matrix.cpp) [Python](./Python/074.%20Search%20a%202D%20Matrix.py) | Medium |
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [C++](./C++/120.%20Triangle.cpp) [Python](./Python/120.%20Triangle.py) | Medium |
@@ -61,6 +62,7 @@
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [C++](./C++/779.%20K-th%20Symbol%20in%20Grammar.cpp) [Python](./Python/779.%20K-th%20Symbol%20in%20Grammar.py) | Medium |
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [C++](./C++/791.%20Custom%20Sort%20String.cpp) [Python](./Python/791.%20Custom%20Sort%20String.py) | Medium |
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [C++](./C++/812.%20Largest%20Triangle%20Area.cpp) [Python](./Python/812.%20Largest%20Triangle%20Area.py) | Easy |
+|821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [C++](./C++/821.%20Shortest%20Distance%20to%20a%20Character.cpp) [Python](./Python/821.%20Shortest%20Distance%20to%20a%20Character.py) | Easy |
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](./C++/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp) [Python](./Python/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) | Easy |
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | [C++](./C++/856.%20Score%20of%20Parentheses.cpp) [Python](./Python/856.%20Score%20of%20Parentheses.py) | Medium |
 |859|[Buddy Strings](https://leetcode.com/contest/weekly-contest-90/problems/buddy-strings/) | [C++](./C++/859.%20Buddy%20Strings.cpp) | Easy |
