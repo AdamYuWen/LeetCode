@@ -28,24 +28,24 @@
 
 class Solution {
 public:
-  int oddCells(int n, int m, vector<vector<int>>& indices) {
-    int res = 0;
-    vector<vector<int>> matrix(n, vector<int>(m, 0));
-    for (int i = 0; i < indices.size(); ++i) {
-      for (int j = 0; j < matrix[0].size(); ++j) {
-	++matrix[indices[i][0]][j];
-      }
-      for (int j = 0; j < matrix.size(); ++j) {
-	++matrix[j][indices[i][1]];
-      }
-    }
-    for (int i = 0; i < matrix.size(); ++i) {
-      for (int j = 0; j < matrix[0].size(); ++j) {
-	if (matrix[i][j] % 2 == 1) {
-	  ++res;
+	int oddCells(int n, int m, vector<vector<int>>& indices) {
+	int res = 0;
+	vector<vector<int>> matrix(n, vector<int>(m, 0));
+	for (int i = 0; i < indices.size(); ++i) {
+		for (int j = 0; j < matrix[0].size(); ++j) {
+			++matrix[indices[i][0]][j];
+		}
+		for (int j = 0; j < matrix.size(); ++j) {
+			++matrix[j][indices[i][1]];
+		}
 	}
-      }
-    }
-    return res;
-  }
+	for (int i = 0; i < matrix.size(); ++i) {
+		for (int j = 0; j < matrix[0].size(); ++j) {
+			if (matrix[i][j] % 2 == 1) {
+				++res;
+			}
+		}
+	}
+	return res;
+	}
 };
